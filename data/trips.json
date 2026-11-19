@@ -1,0 +1,25 @@
+[
+  {
+    "trip_id": "T1",
+    "calendar_id": "W1",
+    "route_id": "R1",
+    "departure_time": "25:10:00",
+    "stops": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "revision": 1
+  },
+  {
+    "trip_id": "T2",
+    "calendar_id": "W2",
+    "route_id": "R2",
+    "departure_time": "09:00:00",
+    "stops": [
+      "S3",
+      "S4"
+    ],
+    "revision": 1
+  }
+]

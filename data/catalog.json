@@ -1,0 +1,186 @@
+{
+  "synthetic": true,
+  "files": [
+    {
+      "path": "data/calendars.json",
+      "format": "json",
+      "sha256": "8ce7abee2dd7f45b105ac5fd9af39470fbd291e763a78c969798a8d18730105c",
+      "rows": 2,
+      "fields": [
+        "calendar_id",
+        "weekdays",
+        "from_date",
+        "until_date"
+      ],
+      "references": []
+    },
+    {
+      "path": "data/trips.json",
+      "format": "json",
+      "sha256": "2bcf400f3926b55b18aaaba7eeb2f4ff91c06295bcff020920dc4d870ccd974c",
+      "rows": 2,
+      "fields": [
+        "trip_id",
+        "calendar_id",
+        "route_id",
+        "departure_time",
+        "stops",
+        "revision"
+      ],
+      "references": [
+        {
+          "field": "calendar_id",
+          "target": "data/calendars.json",
+          "target_field": "calendar_id"
+        }
+      ]
+    },
+    {
+      "path": "data/exceptions.json",
+      "format": "json",
+      "sha256": "2f390ca5f929b8b339f235d731f05c401ccb76f16e07f7f86616e176cf4d8573",
+      "rows": 2,
+      "fields": [
+        "exception_id",
+        "trip_id",
+        "service_date",
+        "action",
+        "new_opportunity"
+      ],
+      "references": [
+        {
+          "field": "trip_id",
+          "target": "data/trips.json",
+          "target_field": "trip_id"
+        }
+      ]
+    },
+    {
+      "path": "data/dispatches.json",
+      "format": "json",
+      "sha256": "ed4ab1e1a96171c3533e9d49eea15ed2e7ceec0122d939049c924c295af8e9ad",
+      "rows": 2,
+      "fields": [
+        "dispatch_id",
+        "opportunity_id",
+        "service_date",
+        "vehicle",
+        "replaces",
+        "from_stop",
+        "until_stop"
+      ],
+      "references": [
+        {
+          "field": "replaces",
+          "target": "data/dispatches.json",
+          "target_field": "dispatch_id"
+        }
+      ]
+    },
+    {
+      "path": "data/stops.json",
+      "format": "json",
+      "sha256": "366478da07627902cb107a6e62eebda106918b3ac84a5c6e4ec3735be9d998bc",
+      "rows": 5,
+      "fields": [
+        "stop_id",
+        "village",
+        "from_date",
+        "until_date",
+        "replaces_stop"
+      ],
+      "references": [
+        {
+          "field": "replaces_stop",
+          "target": "data/stops.json",
+          "target_field": "stop_id"
+        }
+      ]
+    },
+    {
+      "path": "data/vehicle_events.json",
+      "format": "json",
+      "sha256": "eeeee4cdc0ad396f4d5a267186b01061b019a8792a3ad72e825833c2dbc3ec0c",
+      "rows": 8,
+      "fields": [
+        "event_id",
+        "dispatch_id",
+        "vehicle",
+        "stop_id",
+        "kind",
+        "at"
+      ],
+      "references": [
+        {
+          "field": "dispatch_id",
+          "target": "data/dispatches.json",
+          "target_field": "dispatch_id"
+        },
+        {
+          "field": "stop_id",
+          "target": "data/stops.json",
+          "target_field": "stop_id"
+        }
+      ]
+    },
+    {
+      "path": "data/reservations.json",
+      "format": "json",
+      "sha256": "d15db45f2e25dee2f5192c3c7ce65da505e0b614c5ea0abbfab91325869f7b38",
+      "rows": 6,
+      "fields": [
+        "reservation_id",
+        "person_id",
+        "from_stop",
+        "to_stop",
+        "service_date",
+        "cancelled"
+      ],
+      "references": [
+        {
+          "field": "from_stop",
+          "target": "data/stops.json",
+          "target_field": "stop_id"
+        },
+        {
+          "field": "to_stop",
+          "target": "data/stops.json",
+          "target_field": "stop_id"
+        }
+      ]
+    },
+    {
+      "path": "data/boarding.json",
+      "format": "json",
+      "sha256": "29c5bbbceee4870ea57bc95ca6f40e20e94c770b08f0bbb712fc177f6a1d8f52",
+      "rows": 10,
+      "fields": [
+        "credential_id",
+        "person_id",
+        "reservation_id",
+        "dispatch_id",
+        "stop_id",
+        "action",
+        "at",
+        "received_at"
+      ],
+      "references": [
+        {
+          "field": "reservation_id",
+          "target": "data/reservations.json",
+          "target_field": "reservation_id"
+        },
+        {
+          "field": "dispatch_id",
+          "target": "data/dispatches.json",
+          "target_field": "dispatch_id"
+        },
+        {
+          "field": "stop_id",
+          "target": "data/stops.json",
+          "target_field": "stop_id"
+        }
+      ]
+    }
+  ]
+}

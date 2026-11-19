@@ -1,0 +1,50 @@
+[
+  {
+    "reservation_id": "R1",
+    "person_id": "P1",
+    "from_stop": "S1",
+    "to_stop": "S3",
+    "service_date": "2026-11-04",
+    "cancelled": false
+  },
+  {
+    "reservation_id": "R2",
+    "person_id": "P2",
+    "from_stop": "S1",
+    "to_stop": "S3",
+    "service_date": "2026-11-04",
+    "cancelled": true
+  },
+  {
+    "reservation_id": "R3",
+    "person_id": "P3",
+    "from_stop": "S1",
+    "to_stop": "S3",
+    "service_date": "2026-11-04",
+    "cancelled": false
+  },
+  {
+    "reservation_id": "R4",
+    "person_id": "P4",
+    "from_stop": "S1",
+    "to_stop": "S3",
+    "service_date": "2026-11-04",
+    "cancelled": false
+  },
+  {
+    "reservation_id": "R5",
+    "person_id": "P5",
+    "from_stop": "S1",
+    "to_stop": "S3",
+    "service_date": "2026-11-04",
+    "cancelled": false
+  },
+  {
+    "reservation_id": "R6",
+    "person_id": "P6",
+    "from_stop": "S1",
+    "to_stop": "S3",
+    "service_date": "2026-11-04",
+    "cancelled": false
+  }
+]
