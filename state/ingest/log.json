@@ -1,0 +1,80 @@
+{
+  "runs": [
+    {
+      "batches": [
+        "B01"
+      ],
+      "fingerprints": [
+        {
+          "dir": "batches/b01",
+          "files": {
+            "boarding.json": "59f64924c66197746ce0978c1672aeba87b851d39158d212ef8429334dcd87d3",
+            "calendars.json": "200300fac563e14d11b4c57ec54ef3c0cead98930a230187920e9fdc7bbe9531",
+            "dispatches.json": "78a86f52d9a0719a7e5ff62f8051fe3067a8675e75e9a19727dd498f6de3414c",
+            "exceptions.json": "19f0f99c9fb1daa3b58874addcc334f7f0fe845bfc9f5bd4ba38df7ae240a245",
+            "manifest.json": "c9293f0f3ed04c7e0d125b9d3fc7537b399bdab65194a1afd134e020066db5aa",
+            "reservations.json": "b6247b71eed77d6902444cebc4a835a7c8b1ef8bd10b167ad65e38bcf3df8d1d",
+            "stops.json": "76bb09bd652e7d4060c224f5fb6e31be3c6d05d7e83af575503f5b8bd34bcc40",
+            "trips.json": "530d5596afa6c866e3fc1976e2fb6adf6bdffa08afd669b0ff00920946200056",
+            "vehicle_events.json": "c6ccd933f350e465358f2f1d68ca45d99afc27ebc935bbb9b7ed559eb10478b4"
+          }
+        }
+      ],
+      "counts": {
+        "dim_stop": 5,
+        "dim_reservation": 6,
+        "dim_route_service_day": 53,
+        "plan_opportunity": 53,
+        "plan_trip_stop": 132,
+        "run_dispatch": 2,
+        "run_stop_service": 4,
+        "run_opportunity": 53,
+        "ride_event": 8,
+        "ride_leg": 8,
+        "ride_resolution": 4
+      }
+    },
+    {
+      "batches": [
+        "B01",
+        "B02"
+      ],
+      "fingerprints": [
+        {
+          "dir": "batches/b01",
+          "files": {
+            "boarding.json": "59f64924c66197746ce0978c1672aeba87b851d39158d212ef8429334dcd87d3",
+            "calendars.json": "200300fac563e14d11b4c57ec54ef3c0cead98930a230187920e9fdc7bbe9531",
+            "dispatches.json": "78a86f52d9a0719a7e5ff62f8051fe3067a8675e75e9a19727dd498f6de3414c",
+            "exceptions.json": "19f0f99c9fb1daa3b58874addcc334f7f0fe845bfc9f5bd4ba38df7ae240a245",
+            "manifest.json": "c9293f0f3ed04c7e0d125b9d3fc7537b399bdab65194a1afd134e020066db5aa",
+            "reservations.json": "b6247b71eed77d6902444cebc4a835a7c8b1ef8bd10b167ad65e38bcf3df8d1d",
+            "stops.json": "76bb09bd652e7d4060c224f5fb6e31be3c6d05d7e83af575503f5b8bd34bcc40",
+            "trips.json": "530d5596afa6c866e3fc1976e2fb6adf6bdffa08afd669b0ff00920946200056",
+            "vehicle_events.json": "c6ccd933f350e465358f2f1d68ca45d99afc27ebc935bbb9b7ed559eb10478b4"
+          }
+        },
+        {
+          "dir": "batches/b02",
+          "files": {
+            "boarding.json": "02871b46a594b580c5fa7cc6720e0b33e3e27b60711ad7e980abac474f33eee0",
+            "manifest.json": "95780048e6beff28b49cc5017528bd37bb067508987a3c18046b84785a154afd"
+          }
+        }
+      ],
+      "counts": {
+        "dim_stop": 5,
+        "dim_reservation": 6,
+        "dim_route_service_day": 53,
+        "plan_opportunity": 53,
+        "plan_trip_stop": 132,
+        "run_dispatch": 2,
+        "run_stop_service": 4,
+        "run_opportunity": 53,
+        "ride_event": 10,
+        "ride_leg": 8,
+        "ride_resolution": 3
+      }
+    }
+  ]
+}

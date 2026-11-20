@@ -1,0 +1,37 @@
+[
+  {
+    "stop_id": "S1",
+    "village": "V1",
+    "from_date": "2026-01-01",
+    "until_date": null,
+    "replaces_stop": null
+  },
+  {
+    "stop_id": "S2",
+    "village": "V2",
+    "from_date": "2026-01-01",
+    "until_date": "2026-11-04",
+    "replaces_stop": null
+  },
+  {
+    "stop_id": "S2N",
+    "village": "V2",
+    "from_date": "2026-11-04",
+    "until_date": null,
+    "replaces_stop": "S2"
+  },
+  {
+    "stop_id": "S3",
+    "village": "V3",
+    "from_date": "2026-01-01",
+    "until_date": null,
+    "replaces_stop": null
+  },
+  {
+    "stop_id": "S4",
+    "village": "V4",
+    "from_date": "2026-01-01",
+    "until_date": null,
+    "replaces_stop": null
+  }
+]

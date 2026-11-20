@@ -1,0 +1,44 @@
+[
+  {
+    "kind": "unexplained_interval",
+    "person_id": "P2",
+    "service_date": "2026-11-04",
+    "at": "2026-11-05T01:14:00+08:00",
+    "between_dispatch_ids": [
+      "D1",
+      "D2"
+    ],
+    "from_credential_id": "C3",
+    "to_credential_id": "C4",
+    "reason": "cross_dispatch_without_handoff_evidence",
+    "detail": "原车 D1 与替班 D2 之间缺少交接资料，无法确认乘客是否同车延续，半段保留待核对"
+  },
+  {
+    "kind": "unexplained_interval",
+    "person_id": "P3",
+    "service_date": "2026-11-04",
+    "at": "2026-11-05T01:14:00+08:00",
+    "between_dispatch_ids": [
+      "D1",
+      "D2"
+    ],
+    "from_credential_id": "C5",
+    "to_credential_id": "C6",
+    "reason": "cross_dispatch_without_handoff_evidence",
+    "detail": "原车 D1 与替班 D2 之间缺少交接资料，无法确认乘客是否同车延续，半段保留待核对"
+  },
+  {
+    "kind": "unexplained_interval",
+    "person_id": "P4",
+    "service_date": "2026-11-04",
+    "at": "2026-11-05T01:14:00+08:00",
+    "between_dispatch_ids": [
+      "D1",
+      "D2"
+    ],
+    "from_credential_id": "C7",
+    "to_credential_id": "C8",
+    "reason": "cross_dispatch_without_handoff_evidence",
+    "detail": "原车 D1 与替班 D2 之间缺少交接资料，无法确认乘客是否同车延续，半段保留待核对"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "revision_id": "RV-CF-001-001",
+  "confirmation_id": "CF-001",
+  "revised_at": "2026-11-06T12:00:00+08:00",
+  "late_credential_ids": [
+    "C10",
+    "C9"
+  ],
+  "new_leg_ids": [
+    "L|P1|C10|C2",
+    "L|P1|C1|C9"
+  ],
+  "changed_leg_status": [],
+  "run_status_at_revision": [
+    {
+      "opportunity_id": "T1@2026-11-04",
+      "run_status": "fulfilled"
+    }
+  ],
+  "rule": "late_evidence_explains_but_never_overwrites_confirmation",
+  "explanation": "确认后到达的凭证仅用于解释已冻结结论的变化，不回写确认快照；未确认范围以当前规范化事实为准。"
+}

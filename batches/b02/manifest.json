@@ -1,0 +1,9 @@
+{
+  "batch_id": "B02",
+  "files": [
+    "boarding.json"
+  ],
+  "source_hashes": {
+    "boarding.json": "02871b46a594b580c5fa7cc6720e0b33e3e27b60711ad7e980abac474f33eee0"
+  }
+}

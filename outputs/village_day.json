@@ -1,0 +1,2756 @@
+[
+  {
+    "village": "V3",
+    "service_date": "2026-10-01",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-01"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-10-01"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V4",
+    "service_date": "2026-10-01",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-01"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-10-01"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V1",
+    "service_date": "2026-10-02",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-02"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-02"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V2",
+    "service_date": "2026-10-02",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-02"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-02"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-10-02",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-02"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-02"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-10-03",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-03"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-10-03"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V4",
+    "service_date": "2026-10-03",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-03"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-10-03"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V1",
+    "service_date": "2026-10-05",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-05"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-05"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V2",
+    "service_date": "2026-10-05",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-05"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-05"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-10-05",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-05"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-05"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-10-06",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-06"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-10-06"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V4",
+    "service_date": "2026-10-06",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-06"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-10-06"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V1",
+    "service_date": "2026-10-07",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-07"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-07"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V2",
+    "service_date": "2026-10-07",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-07"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-07"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-10-07",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-07"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-07"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-10-08",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-08"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-10-08"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V4",
+    "service_date": "2026-10-08",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-08"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-10-08"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V1",
+    "service_date": "2026-10-09",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-09"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-09"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V2",
+    "service_date": "2026-10-09",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-09"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-09"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-10-09",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-09"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-09"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-10-10",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-10"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-10-10"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V4",
+    "service_date": "2026-10-10",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-10"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-10-10"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V1",
+    "service_date": "2026-10-12",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-12"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-12"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V2",
+    "service_date": "2026-10-12",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-12"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-12"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-10-12",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-12"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-12"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-10-13",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-13"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-10-13"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V4",
+    "service_date": "2026-10-13",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-13"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-10-13"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V1",
+    "service_date": "2026-10-14",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-14"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-14"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V2",
+    "service_date": "2026-10-14",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-14"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-14"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-10-14",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-14"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-14"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-10-15",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-15"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-10-15"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V4",
+    "service_date": "2026-10-15",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-15"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-10-15"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V1",
+    "service_date": "2026-10-16",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-16"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-16"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V2",
+    "service_date": "2026-10-16",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-16"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-16"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-10-16",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-16"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-16"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-10-17",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-17"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-10-17"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V4",
+    "service_date": "2026-10-17",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-17"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-10-17"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V1",
+    "service_date": "2026-10-19",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-19"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-19"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V2",
+    "service_date": "2026-10-19",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-19"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-19"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-10-19",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-19"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-19"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-10-20",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-20"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-10-20"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V4",
+    "service_date": "2026-10-20",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-20"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-10-20"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V1",
+    "service_date": "2026-10-21",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-21"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-21"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V2",
+    "service_date": "2026-10-21",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-21"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-21"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-10-21",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-21"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-21"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-10-22",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-22"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-10-22"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V4",
+    "service_date": "2026-10-22",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-22"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-10-22"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V1",
+    "service_date": "2026-10-23",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-23"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-23"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V2",
+    "service_date": "2026-10-23",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-23"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-23"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-10-23",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-23"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-23"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-10-24",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-24"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-10-24"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V4",
+    "service_date": "2026-10-24",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-24"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-10-24"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V1",
+    "service_date": "2026-10-26",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-26"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-26"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V2",
+    "service_date": "2026-10-26",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-26"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-26"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-10-26",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-26"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-26"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-10-27",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-27"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-10-27"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V4",
+    "service_date": "2026-10-27",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-27"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-10-27"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V1",
+    "service_date": "2026-10-28",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-28"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-28"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V2",
+    "service_date": "2026-10-28",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-28"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-28"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-10-28",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-28"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-28"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-10-29",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-29"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-10-29"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V4",
+    "service_date": "2026-10-29",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-29"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-10-29"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V1",
+    "service_date": "2026-10-30",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-30"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-30"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V2",
+    "service_date": "2026-10-30",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-30"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-30"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-10-30",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-30"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-10-30"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-10-31",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-31"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-10-31"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V4",
+    "service_date": "2026-10-31",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-31"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-10-31"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V1",
+    "service_date": "2026-11-02",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 0,
+    "insufficient_count": 0,
+    "cancelled_count": 1,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-02"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": [
+      "T1@2026-11-02"
+    ]
+  },
+  {
+    "village": "V2",
+    "service_date": "2026-11-02",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 0,
+    "insufficient_count": 0,
+    "cancelled_count": 1,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-02"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": [
+      "T1@2026-11-02"
+    ]
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-11-02",
+    "planned_opportunity_count": 2,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 1,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "EXTRA1",
+      "T1@2026-11-02"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "EXTRA1"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": [
+      "T1@2026-11-02"
+    ]
+  },
+  {
+    "village": "V4",
+    "service_date": "2026-11-02",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "EXTRA1"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "EXTRA1"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-11-03",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-03"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-11-03"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V4",
+    "service_date": "2026-11-03",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-03"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-11-03"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V1",
+    "service_date": "2026-11-04",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 1,
+    "reachable_route_count": 1,
+    "not_fulfilled_count": 0,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 4,
+    "ride_leg_count": 4,
+    "opportunity_ids": [
+      "T1@2026-11-04"
+    ],
+    "reachable_opportunity_ids": [
+      "T1@2026-11-04"
+    ],
+    "not_fulfilled_opportunity_ids": [],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V2",
+    "service_date": "2026-11-04",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 1,
+    "reachable_route_count": 1,
+    "not_fulfilled_count": 0,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 1,
+    "ride_leg_count": 2,
+    "opportunity_ids": [
+      "T1@2026-11-04"
+    ],
+    "reachable_opportunity_ids": [
+      "T1@2026-11-04"
+    ],
+    "not_fulfilled_opportunity_ids": [],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-11-04",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 1,
+    "reachable_route_count": 1,
+    "not_fulfilled_count": 0,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 4,
+    "ride_leg_count": 4,
+    "opportunity_ids": [
+      "T1@2026-11-04"
+    ],
+    "reachable_opportunity_ids": [
+      "T1@2026-11-04"
+    ],
+    "not_fulfilled_opportunity_ids": [],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-11-05",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-05"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-11-05"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V4",
+    "service_date": "2026-11-05",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-05"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-11-05"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V1",
+    "service_date": "2026-11-06",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-06"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-11-06"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V2",
+    "service_date": "2026-11-06",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-06"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-11-06"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-11-06",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-06"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-11-06"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-11-07",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-07"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-11-07"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V4",
+    "service_date": "2026-11-07",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-07"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-11-07"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V1",
+    "service_date": "2026-11-09",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-09"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-11-09"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V2",
+    "service_date": "2026-11-09",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-09"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-11-09"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-11-09",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-09"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-11-09"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-11-10",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-10"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-11-10"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V4",
+    "service_date": "2026-11-10",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-10"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-11-10"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V1",
+    "service_date": "2026-11-11",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-11"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-11-11"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V2",
+    "service_date": "2026-11-11",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-11"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-11-11"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-11-11",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-11"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-11-11"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-11-12",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-12"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-11-12"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V4",
+    "service_date": "2026-11-12",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-12"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-11-12"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V1",
+    "service_date": "2026-11-13",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-13"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-11-13"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V2",
+    "service_date": "2026-11-13",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-13"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-11-13"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-11-13",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-13"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-11-13"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-11-14",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-14"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-11-14"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V4",
+    "service_date": "2026-11-14",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-14"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-11-14"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V1",
+    "service_date": "2026-11-16",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-16"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-11-16"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V2",
+    "service_date": "2026-11-16",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-16"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-11-16"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-11-16",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-16"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-11-16"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-11-17",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-17"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-11-17"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V4",
+    "service_date": "2026-11-17",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-17"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-11-17"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V1",
+    "service_date": "2026-11-18",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-18"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-11-18"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V2",
+    "service_date": "2026-11-18",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-18"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-11-18"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-11-18",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-18"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-11-18"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-11-19",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-19"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-11-19"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V4",
+    "service_date": "2026-11-19",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-19"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-11-19"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V1",
+    "service_date": "2026-11-20",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-20"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-11-20"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V2",
+    "service_date": "2026-11-20",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-20"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-11-20"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-11-20",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-20"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-11-20"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-11-21",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-21"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-11-21"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V4",
+    "service_date": "2026-11-21",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-21"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-11-21"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V1",
+    "service_date": "2026-11-23",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-23"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-11-23"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V2",
+    "service_date": "2026-11-23",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-23"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-11-23"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-11-23",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-23"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-11-23"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-11-24",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-24"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-11-24"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V4",
+    "service_date": "2026-11-24",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-24"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-11-24"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V1",
+    "service_date": "2026-11-25",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-25"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-11-25"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V2",
+    "service_date": "2026-11-25",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-25"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-11-25"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-11-25",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-25"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-11-25"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-11-26",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-26"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-11-26"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V4",
+    "service_date": "2026-11-26",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-26"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-11-26"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V1",
+    "service_date": "2026-11-27",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-27"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-11-27"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V2",
+    "service_date": "2026-11-27",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-27"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-11-27"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-11-27",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-27"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-11-27"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-11-28",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-28"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-11-28"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V4",
+    "service_date": "2026-11-28",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-28"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T2@2026-11-28"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V1",
+    "service_date": "2026-11-30",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-30"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-11-30"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V2",
+    "service_date": "2026-11-30",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-30"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-11-30"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  },
+  {
+    "village": "V3",
+    "service_date": "2026-11-30",
+    "planned_opportunity_count": 1,
+    "reachable_opportunity_count": 0,
+    "reachable_route_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "cancelled_count": 0,
+    "distinct_person_count": 0,
+    "ride_leg_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-30"
+    ],
+    "reachable_opportunity_ids": [],
+    "not_fulfilled_opportunity_ids": [
+      "T1@2026-11-30"
+    ],
+    "insufficient_opportunity_ids": [],
+    "cancelled_opportunity_ids": []
+  }
+]

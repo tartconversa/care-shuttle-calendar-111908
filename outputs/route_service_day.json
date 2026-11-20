@@ -1,0 +1,744 @@
+[
+  {
+    "route_id": "R2",
+    "service_date": "2026-10-01",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-01"
+    ]
+  },
+  {
+    "route_id": "R1",
+    "service_date": "2026-10-02",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-02"
+    ]
+  },
+  {
+    "route_id": "R2",
+    "service_date": "2026-10-03",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-03"
+    ]
+  },
+  {
+    "route_id": "R1",
+    "service_date": "2026-10-05",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-05"
+    ]
+  },
+  {
+    "route_id": "R2",
+    "service_date": "2026-10-06",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-06"
+    ]
+  },
+  {
+    "route_id": "R1",
+    "service_date": "2026-10-07",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-07"
+    ]
+  },
+  {
+    "route_id": "R2",
+    "service_date": "2026-10-08",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-08"
+    ]
+  },
+  {
+    "route_id": "R1",
+    "service_date": "2026-10-09",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-09"
+    ]
+  },
+  {
+    "route_id": "R2",
+    "service_date": "2026-10-10",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-10"
+    ]
+  },
+  {
+    "route_id": "R1",
+    "service_date": "2026-10-12",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-12"
+    ]
+  },
+  {
+    "route_id": "R2",
+    "service_date": "2026-10-13",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-13"
+    ]
+  },
+  {
+    "route_id": "R1",
+    "service_date": "2026-10-14",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-14"
+    ]
+  },
+  {
+    "route_id": "R2",
+    "service_date": "2026-10-15",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-15"
+    ]
+  },
+  {
+    "route_id": "R1",
+    "service_date": "2026-10-16",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-16"
+    ]
+  },
+  {
+    "route_id": "R2",
+    "service_date": "2026-10-17",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-17"
+    ]
+  },
+  {
+    "route_id": "R1",
+    "service_date": "2026-10-19",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-19"
+    ]
+  },
+  {
+    "route_id": "R2",
+    "service_date": "2026-10-20",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-20"
+    ]
+  },
+  {
+    "route_id": "R1",
+    "service_date": "2026-10-21",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-21"
+    ]
+  },
+  {
+    "route_id": "R2",
+    "service_date": "2026-10-22",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-22"
+    ]
+  },
+  {
+    "route_id": "R1",
+    "service_date": "2026-10-23",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-23"
+    ]
+  },
+  {
+    "route_id": "R2",
+    "service_date": "2026-10-24",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-24"
+    ]
+  },
+  {
+    "route_id": "R1",
+    "service_date": "2026-10-26",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-26"
+    ]
+  },
+  {
+    "route_id": "R2",
+    "service_date": "2026-10-27",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-27"
+    ]
+  },
+  {
+    "route_id": "R1",
+    "service_date": "2026-10-28",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-28"
+    ]
+  },
+  {
+    "route_id": "R2",
+    "service_date": "2026-10-29",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-29"
+    ]
+  },
+  {
+    "route_id": "R1",
+    "service_date": "2026-10-30",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T1@2026-10-30"
+    ]
+  },
+  {
+    "route_id": "R2",
+    "service_date": "2026-10-31",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T2@2026-10-31"
+    ]
+  },
+  {
+    "route_id": "R1",
+    "service_date": "2026-11-02",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 0,
+    "added_count": 0,
+    "cancelled_count": 1,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 0,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-02"
+    ]
+  },
+  {
+    "route_id": "R2",
+    "service_date": "2026-11-02",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 0,
+    "added_count": 1,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "EXTRA1"
+    ]
+  },
+  {
+    "route_id": "R2",
+    "service_date": "2026-11-03",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-03"
+    ]
+  },
+  {
+    "route_id": "R1",
+    "service_date": "2026-11-04",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 1,
+    "not_fulfilled_count": 0,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-04"
+    ]
+  },
+  {
+    "route_id": "R2",
+    "service_date": "2026-11-05",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-05"
+    ]
+  },
+  {
+    "route_id": "R1",
+    "service_date": "2026-11-06",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-06"
+    ]
+  },
+  {
+    "route_id": "R2",
+    "service_date": "2026-11-07",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-07"
+    ]
+  },
+  {
+    "route_id": "R1",
+    "service_date": "2026-11-09",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-09"
+    ]
+  },
+  {
+    "route_id": "R2",
+    "service_date": "2026-11-10",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-10"
+    ]
+  },
+  {
+    "route_id": "R1",
+    "service_date": "2026-11-11",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-11"
+    ]
+  },
+  {
+    "route_id": "R2",
+    "service_date": "2026-11-12",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-12"
+    ]
+  },
+  {
+    "route_id": "R1",
+    "service_date": "2026-11-13",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-13"
+    ]
+  },
+  {
+    "route_id": "R2",
+    "service_date": "2026-11-14",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-14"
+    ]
+  },
+  {
+    "route_id": "R1",
+    "service_date": "2026-11-16",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-16"
+    ]
+  },
+  {
+    "route_id": "R2",
+    "service_date": "2026-11-17",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-17"
+    ]
+  },
+  {
+    "route_id": "R1",
+    "service_date": "2026-11-18",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-18"
+    ]
+  },
+  {
+    "route_id": "R2",
+    "service_date": "2026-11-19",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-19"
+    ]
+  },
+  {
+    "route_id": "R1",
+    "service_date": "2026-11-20",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-20"
+    ]
+  },
+  {
+    "route_id": "R2",
+    "service_date": "2026-11-21",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-21"
+    ]
+  },
+  {
+    "route_id": "R1",
+    "service_date": "2026-11-23",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-23"
+    ]
+  },
+  {
+    "route_id": "R2",
+    "service_date": "2026-11-24",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-24"
+    ]
+  },
+  {
+    "route_id": "R1",
+    "service_date": "2026-11-25",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-25"
+    ]
+  },
+  {
+    "route_id": "R2",
+    "service_date": "2026-11-26",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-26"
+    ]
+  },
+  {
+    "route_id": "R1",
+    "service_date": "2026-11-27",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-27"
+    ]
+  },
+  {
+    "route_id": "R2",
+    "service_date": "2026-11-28",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T2@2026-11-28"
+    ]
+  },
+  {
+    "route_id": "R1",
+    "service_date": "2026-11-30",
+    "planned_opportunity_count": 1,
+    "scheduled_count": 1,
+    "added_count": 0,
+    "cancelled_count": 0,
+    "fulfilled_count": 0,
+    "not_fulfilled_count": 1,
+    "insufficient_count": 0,
+    "opportunity_ids": [
+      "T1@2026-11-30"
+    ]
+  }
+]

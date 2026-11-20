@@ -1,0 +1,23 @@
+{
+  "batch_id": "B01",
+  "files": [
+    "calendars.json",
+    "trips.json",
+    "exceptions.json",
+    "dispatches.json",
+    "stops.json",
+    "vehicle_events.json",
+    "reservations.json",
+    "boarding.json"
+  ],
+  "source_hashes": {
+    "calendars.json": "200300fac563e14d11b4c57ec54ef3c0cead98930a230187920e9fdc7bbe9531",
+    "trips.json": "530d5596afa6c866e3fc1976e2fb6adf6bdffa08afd669b0ff00920946200056",
+    "exceptions.json": "19f0f99c9fb1daa3b58874addcc334f7f0fe845bfc9f5bd4ba38df7ae240a245",
+    "dispatches.json": "78a86f52d9a0719a7e5ff62f8051fe3067a8675e75e9a19727dd498f6de3414c",
+    "stops.json": "76bb09bd652e7d4060c224f5fb6e31be3c6d05d7e83af575503f5b8bd34bcc40",
+    "vehicle_events.json": "c6ccd933f350e465358f2f1d68ca45d99afc27ebc935bbb9b7ed559eb10478b4",
+    "reservations.json": "b6247b71eed77d6902444cebc4a835a7c8b1ef8bd10b167ad65e38bcf3df8d1d",
+    "boarding.json": "59f64924c66197746ce0978c1672aeba87b851d39158d212ef8429334dcd87d3"
+  }
+}

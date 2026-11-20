@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-11-20T16:04:11.184807+08:00",
+  "local_utc_offset": "+08:00",
+  "batches": [
+    "B01",
+    "B02"
+  ],
+  "counts": {
+    "dim_stop": 5,
+    "dim_reservation": 6,
+    "dim_route_service_day": 53,
+    "plan_opportunity": 53,
+    "plan_trip_stop": 132,
+    "run_dispatch": 2,
+    "run_stop_service": 4,
+    "run_opportunity": 53,
+    "ride_event": 10,
+    "ride_leg": 8,
+    "ride_resolution": 3
+  }
+}

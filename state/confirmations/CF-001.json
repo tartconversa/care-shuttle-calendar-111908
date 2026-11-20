@@ -1,0 +1,50 @@
+{
+  "confirmation_id": "CF-001",
+  "confirmed_at": "2026-11-06T09:30:00+08:00",
+  "authority": "交通养老联合工作组",
+  "scope": {
+    "service_date": "2026-11-04"
+  },
+  "visible_batches": [
+    "B01"
+  ],
+  "frozen": {
+    "plan_opportunity": [
+      "T1@2026-11-04"
+    ],
+    "run_opportunity": [
+      "T1@2026-11-04"
+    ],
+    "ride_leg": [
+      "L|P1|C1|open@D1:S1",
+      "L|P1|open@D2:S3|C2",
+      "L|P2|C3|open@D1:S1",
+      "L|P2|open@D2:S3|C4",
+      "L|P3|C5|open@D1:S1",
+      "L|P3|open@D2:S3|C6",
+      "L|P4|C7|open@D1:S1",
+      "L|P4|open@D2:S3|C8"
+    ],
+    "ride_leg_status": {
+      "L|P1|C1|open@D1:S1": "pending_handoff",
+      "L|P1|open@D2:S3|C2": "pending_handoff",
+      "L|P2|C3|open@D1:S1": "pending_handoff",
+      "L|P2|open@D2:S3|C4": "pending_handoff",
+      "L|P3|C5|open@D1:S1": "pending_handoff",
+      "L|P3|open@D2:S3|C6": "pending_handoff",
+      "L|P4|C7|open@D1:S1": "pending_handoff",
+      "L|P4|open@D2:S3|C8": "pending_handoff"
+    },
+    "ride_event": [
+      "C1",
+      "C3",
+      "C5",
+      "C7",
+      "C2",
+      "C4",
+      "C6",
+      "C8"
+    ]
+  },
+  "note": "一期履约确认"
+}

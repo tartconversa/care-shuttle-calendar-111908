@@ -1,0 +1,22 @@
+[
+  {
+    "calendar_id": "W1",
+    "weekdays": [
+      1,
+      3,
+      5
+    ],
+    "from_date": "2026-10-01",
+    "until_date": "2026-12-01"
+  },
+  {
+    "calendar_id": "W2",
+    "weekdays": [
+      2,
+      4,
+      6
+    ],
+    "from_date": "2026-10-01",
+    "until_date": "2026-12-01"
+  }
+]

@@ -4,7 +4,7 @@
     {
       "path": "data/calendars.json",
       "format": "json",
-      "sha256": "8ce7abee2dd7f45b105ac5fd9af39470fbd291e763a78c969798a8d18730105c",
+      "sha256": "200300fac563e14d11b4c57ec54ef3c0cead98930a230187920e9fdc7bbe9531",
       "rows": 2,
       "fields": [
         "calendar_id",
@@ -17,7 +17,7 @@
     {
       "path": "data/trips.json",
       "format": "json",
-      "sha256": "2bcf400f3926b55b18aaaba7eeb2f4ff91c06295bcff020920dc4d870ccd974c",
+      "sha256": "530d5596afa6c866e3fc1976e2fb6adf6bdffa08afd669b0ff00920946200056",
       "rows": 2,
       "fields": [
         "trip_id",
@@ -38,7 +38,7 @@
     {
       "path": "data/exceptions.json",
       "format": "json",
-      "sha256": "2f390ca5f929b8b339f235d731f05c401ccb76f16e07f7f86616e176cf4d8573",
+      "sha256": "19f0f99c9fb1daa3b58874addcc334f7f0fe845bfc9f5bd4ba38df7ae240a245",
       "rows": 2,
       "fields": [
         "exception_id",
@@ -58,7 +58,7 @@
     {
       "path": "data/dispatches.json",
       "format": "json",
-      "sha256": "ed4ab1e1a96171c3533e9d49eea15ed2e7ceec0122d939049c924c295af8e9ad",
+      "sha256": "78a86f52d9a0719a7e5ff62f8051fe3067a8675e75e9a19727dd498f6de3414c",
       "rows": 2,
       "fields": [
         "dispatch_id",
@@ -80,7 +80,7 @@
     {
       "path": "data/stops.json",
       "format": "json",
-      "sha256": "366478da07627902cb107a6e62eebda106918b3ac84a5c6e4ec3735be9d998bc",
+      "sha256": "76bb09bd652e7d4060c224f5fb6e31be3c6d05d7e83af575503f5b8bd34bcc40",
       "rows": 5,
       "fields": [
         "stop_id",
@@ -100,7 +100,7 @@
     {
       "path": "data/vehicle_events.json",
       "format": "json",
-      "sha256": "eeeee4cdc0ad396f4d5a267186b01061b019a8792a3ad72e825833c2dbc3ec0c",
+      "sha256": "c6ccd933f350e465358f2f1d68ca45d99afc27ebc935bbb9b7ed559eb10478b4",
       "rows": 8,
       "fields": [
         "event_id",
@@ -126,7 +126,7 @@
     {
       "path": "data/reservations.json",
       "format": "json",
-      "sha256": "d15db45f2e25dee2f5192c3c7ce65da505e0b614c5ea0abbfab91325869f7b38",
+      "sha256": "b6247b71eed77d6902444cebc4a835a7c8b1ef8bd10b167ad65e38bcf3df8d1d",
       "rows": 6,
       "fields": [
         "reservation_id",
@@ -152,7 +152,7 @@
     {
       "path": "data/boarding.json",
       "format": "json",
-      "sha256": "29c5bbbceee4870ea57bc95ca6f40e20e94c770b08f0bbb712fc177f6a1d8f52",
+      "sha256": "a81b8b00aef06895b109dd9e342194d7209454c87f218663f961fcdd004a0b25",
       "rows": 10,
       "fields": [
         "credential_id",

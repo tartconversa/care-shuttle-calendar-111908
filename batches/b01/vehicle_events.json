@@ -1,0 +1,66 @@
+[
+  {
+    "event_id": "G1",
+    "dispatch_id": "D1",
+    "vehicle": "CAR1",
+    "stop_id": "S1",
+    "kind": "gps",
+    "at": "2026-11-05T01:10:00+08:00"
+  },
+  {
+    "event_id": "G2",
+    "dispatch_id": "D1",
+    "vehicle": "CAR1",
+    "stop_id": "S1",
+    "kind": "boarding_open",
+    "at": "2026-11-05T01:12:00+08:00"
+  },
+  {
+    "event_id": "G3",
+    "dispatch_id": "D1",
+    "vehicle": "CAR1",
+    "stop_id": "S2N",
+    "kind": "gps",
+    "at": "2026-11-05T01:19:00+08:00"
+  },
+  {
+    "event_id": "G4",
+    "dispatch_id": "D1",
+    "vehicle": "CAR1",
+    "stop_id": "S2N",
+    "kind": "boarding_open",
+    "at": "2026-11-05T01:20:00+08:00"
+  },
+  {
+    "event_id": "G5",
+    "dispatch_id": "D2",
+    "vehicle": "CAR2",
+    "stop_id": "S2N",
+    "kind": "gps",
+    "at": "2026-11-05T01:21:00+08:00"
+  },
+  {
+    "event_id": "G6",
+    "dispatch_id": "D2",
+    "vehicle": "CAR2",
+    "stop_id": "S2N",
+    "kind": "boarding_open",
+    "at": "2026-11-05T01:22:00+08:00"
+  },
+  {
+    "event_id": "G7",
+    "dispatch_id": "D2",
+    "vehicle": "CAR2",
+    "stop_id": "S3",
+    "kind": "gps",
+    "at": "2026-11-05T01:27:00+08:00"
+  },
+  {
+    "event_id": "G8",
+    "dispatch_id": "D2",
+    "vehicle": "CAR2",
+    "stop_id": "S3",
+    "kind": "boarding_open",
+    "at": "2026-11-05T01:28:00+08:00"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "credential_id": "C9",
+    "person_id": "P1",
+    "reservation_id": "R1",
+    "dispatch_id": "D1",
+    "stop_id": "S2N",
+    "action": "alight",
+    "at": "2026-11-05T01:20:00+08:00",
+    "received_at": "2026-11-06T10:00:00+08:00"
+  },
+  {
+    "credential_id": "C10",
+    "person_id": "P1",
+    "reservation_id": "R1",
+    "dispatch_id": "D2",
+    "stop_id": "S2N",
+    "action": "board",
+    "at": "2026-11-05T01:22:00+08:00",
+    "received_at": "2026-11-06T10:00:00+08:00"
+  }
+]

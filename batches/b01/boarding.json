@@ -1,0 +1,82 @@
+[
+  {
+    "credential_id": "C1",
+    "person_id": "P1",
+    "reservation_id": "R1",
+    "dispatch_id": "D1",
+    "stop_id": "S1",
+    "action": "board",
+    "at": "2026-11-05T01:14:00+08:00",
+    "received_at": "2026-11-06T09:00:00+08:00"
+  },
+  {
+    "credential_id": "C2",
+    "person_id": "P1",
+    "reservation_id": "R1",
+    "dispatch_id": "D2",
+    "stop_id": "S3",
+    "action": "alight",
+    "at": "2026-11-05T01:28:00+08:00",
+    "received_at": "2026-11-06T09:00:00+08:00"
+  },
+  {
+    "credential_id": "C3",
+    "person_id": "P2",
+    "reservation_id": "R2",
+    "dispatch_id": "D1",
+    "stop_id": "S1",
+    "action": "board",
+    "at": "2026-11-05T01:14:00+08:00",
+    "received_at": "2026-11-06T09:00:00+08:00"
+  },
+  {
+    "credential_id": "C4",
+    "person_id": "P2",
+    "reservation_id": "R2",
+    "dispatch_id": "D2",
+    "stop_id": "S3",
+    "action": "alight",
+    "at": "2026-11-05T01:28:00+08:00",
+    "received_at": "2026-11-06T09:00:00+08:00"
+  },
+  {
+    "credential_id": "C5",
+    "person_id": "P3",
+    "reservation_id": "R3",
+    "dispatch_id": "D1",
+    "stop_id": "S1",
+    "action": "board",
+    "at": "2026-11-05T01:14:00+08:00",
+    "received_at": "2026-11-06T09:00:00+08:00"
+  },
+  {
+    "credential_id": "C6",
+    "person_id": "P3",
+    "reservation_id": "R3",
+    "dispatch_id": "D2",
+    "stop_id": "S3",
+    "action": "alight",
+    "at": "2026-11-05T01:28:00+08:00",
+    "received_at": "2026-11-06T09:00:00+08:00"
+  },
+  {
+    "credential_id": "C7",
+    "person_id": "P4",
+    "reservation_id": "R4",
+    "dispatch_id": "D1",
+    "stop_id": "S1",
+    "action": "board",
+    "at": "2026-11-05T01:14:00+08:00",
+    "received_at": "2026-11-06T09:00:00+08:00"
+  },
+  {
+    "credential_id": "C8",
+    "person_id": "P4",
+    "reservation_id": "R4",
+    "dispatch_id": "D2",
+    "stop_id": "S3",
+    "action": "alight",
+    "at": "2026-11-05T01:28:00+08:00",
+    "received_at": "2026-11-06T09:00:00+08:00"
+  }
+]

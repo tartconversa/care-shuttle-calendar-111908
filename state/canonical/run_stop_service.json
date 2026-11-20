@@ -1,0 +1,50 @@
+[
+  {
+    "dispatch_id": "D1",
+    "stop_id": "S1",
+    "gps_events": [
+      "G1"
+    ],
+    "boarding_open_events": [
+      "G2"
+    ],
+    "has_gps": true,
+    "has_boarding_open": true
+  },
+  {
+    "dispatch_id": "D1",
+    "stop_id": "S2N",
+    "gps_events": [
+      "G3"
+    ],
+    "boarding_open_events": [
+      "G4"
+    ],
+    "has_gps": true,
+    "has_boarding_open": true
+  },
+  {
+    "dispatch_id": "D2",
+    "stop_id": "S2N",
+    "gps_events": [
+      "G5"
+    ],
+    "boarding_open_events": [
+      "G6"
+    ],
+    "has_gps": true,
+    "has_boarding_open": true
+  },
+  {
+    "dispatch_id": "D2",
+    "stop_id": "S3",
+    "gps_events": [
+      "G7"
+    ],
+    "boarding_open_events": [
+      "G8"
+    ],
+    "has_gps": true,
+    "has_boarding_open": true
+  }
+]

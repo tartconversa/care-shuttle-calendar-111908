@@ -1,0 +1,16 @@
+[
+  {
+    "exception_id": "E1",
+    "trip_id": "T1",
+    "service_date": "2026-11-02",
+    "action": "cancel",
+    "new_opportunity": null
+  },
+  {
+    "exception_id": "E2",
+    "trip_id": "T2",
+    "service_date": "2026-11-02",
+    "action": "add",
+    "new_opportunity": "EXTRA1"
+  }
+]

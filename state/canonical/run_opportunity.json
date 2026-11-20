@@ -1,0 +1,539 @@
+[
+  {
+    "opportunity_id": "T1@2026-10-02",
+    "route_id": "R1",
+    "service_date": "2026-10-02",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T1@2026-10-05",
+    "route_id": "R1",
+    "service_date": "2026-10-05",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T1@2026-10-07",
+    "route_id": "R1",
+    "service_date": "2026-10-07",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T1@2026-10-09",
+    "route_id": "R1",
+    "service_date": "2026-10-09",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T1@2026-10-12",
+    "route_id": "R1",
+    "service_date": "2026-10-12",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T1@2026-10-14",
+    "route_id": "R1",
+    "service_date": "2026-10-14",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T1@2026-10-16",
+    "route_id": "R1",
+    "service_date": "2026-10-16",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T1@2026-10-19",
+    "route_id": "R1",
+    "service_date": "2026-10-19",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T1@2026-10-21",
+    "route_id": "R1",
+    "service_date": "2026-10-21",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T1@2026-10-23",
+    "route_id": "R1",
+    "service_date": "2026-10-23",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T1@2026-10-26",
+    "route_id": "R1",
+    "service_date": "2026-10-26",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T1@2026-10-28",
+    "route_id": "R1",
+    "service_date": "2026-10-28",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T1@2026-10-30",
+    "route_id": "R1",
+    "service_date": "2026-10-30",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T1@2026-11-02",
+    "route_id": "R1",
+    "service_date": "2026-11-02",
+    "plan_status": "cancelled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "cancelled"
+  },
+  {
+    "opportunity_id": "T1@2026-11-04",
+    "route_id": "R1",
+    "service_date": "2026-11-04",
+    "plan_status": "scheduled",
+    "dispatch_ids": [
+      "D1",
+      "D2"
+    ],
+    "proven_service_stops": [
+      "S1",
+      "S2N",
+      "S3"
+    ],
+    "gps_only_stops": [],
+    "run_status": "fulfilled"
+  },
+  {
+    "opportunity_id": "T1@2026-11-06",
+    "route_id": "R1",
+    "service_date": "2026-11-06",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T1@2026-11-09",
+    "route_id": "R1",
+    "service_date": "2026-11-09",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T1@2026-11-11",
+    "route_id": "R1",
+    "service_date": "2026-11-11",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T1@2026-11-13",
+    "route_id": "R1",
+    "service_date": "2026-11-13",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T1@2026-11-16",
+    "route_id": "R1",
+    "service_date": "2026-11-16",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T1@2026-11-18",
+    "route_id": "R1",
+    "service_date": "2026-11-18",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T1@2026-11-20",
+    "route_id": "R1",
+    "service_date": "2026-11-20",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T1@2026-11-23",
+    "route_id": "R1",
+    "service_date": "2026-11-23",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T1@2026-11-25",
+    "route_id": "R1",
+    "service_date": "2026-11-25",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T1@2026-11-27",
+    "route_id": "R1",
+    "service_date": "2026-11-27",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T1@2026-11-30",
+    "route_id": "R1",
+    "service_date": "2026-11-30",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T2@2026-10-01",
+    "route_id": "R2",
+    "service_date": "2026-10-01",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T2@2026-10-03",
+    "route_id": "R2",
+    "service_date": "2026-10-03",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T2@2026-10-06",
+    "route_id": "R2",
+    "service_date": "2026-10-06",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T2@2026-10-08",
+    "route_id": "R2",
+    "service_date": "2026-10-08",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T2@2026-10-10",
+    "route_id": "R2",
+    "service_date": "2026-10-10",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T2@2026-10-13",
+    "route_id": "R2",
+    "service_date": "2026-10-13",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T2@2026-10-15",
+    "route_id": "R2",
+    "service_date": "2026-10-15",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T2@2026-10-17",
+    "route_id": "R2",
+    "service_date": "2026-10-17",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T2@2026-10-20",
+    "route_id": "R2",
+    "service_date": "2026-10-20",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T2@2026-10-22",
+    "route_id": "R2",
+    "service_date": "2026-10-22",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T2@2026-10-24",
+    "route_id": "R2",
+    "service_date": "2026-10-24",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T2@2026-10-27",
+    "route_id": "R2",
+    "service_date": "2026-10-27",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T2@2026-10-29",
+    "route_id": "R2",
+    "service_date": "2026-10-29",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T2@2026-10-31",
+    "route_id": "R2",
+    "service_date": "2026-10-31",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T2@2026-11-03",
+    "route_id": "R2",
+    "service_date": "2026-11-03",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T2@2026-11-05",
+    "route_id": "R2",
+    "service_date": "2026-11-05",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T2@2026-11-07",
+    "route_id": "R2",
+    "service_date": "2026-11-07",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T2@2026-11-10",
+    "route_id": "R2",
+    "service_date": "2026-11-10",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T2@2026-11-12",
+    "route_id": "R2",
+    "service_date": "2026-11-12",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T2@2026-11-14",
+    "route_id": "R2",
+    "service_date": "2026-11-14",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T2@2026-11-17",
+    "route_id": "R2",
+    "service_date": "2026-11-17",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T2@2026-11-19",
+    "route_id": "R2",
+    "service_date": "2026-11-19",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T2@2026-11-21",
+    "route_id": "R2",
+    "service_date": "2026-11-21",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T2@2026-11-24",
+    "route_id": "R2",
+    "service_date": "2026-11-24",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T2@2026-11-26",
+    "route_id": "R2",
+    "service_date": "2026-11-26",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "T2@2026-11-28",
+    "route_id": "R2",
+    "service_date": "2026-11-28",
+    "plan_status": "scheduled",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  },
+  {
+    "opportunity_id": "EXTRA1",
+    "route_id": "R2",
+    "service_date": "2026-11-02",
+    "plan_status": "added",
+    "dispatch_ids": [],
+    "proven_service_stops": [],
+    "gps_only_stops": [],
+    "run_status": "not_fulfilled"
+  }
+]
